@@ -25,3 +25,9 @@ For the first project, I'm going to be working on a small guard-clauses library 
 **Today's Progress**: Technically, it's already the 26th. But since I haven't gone to bed yet, I can still consider it as "today". And, technically as well, I haven't made any real progress today. Still struggling with the build on Visual Studio. I've decided to give up on VS2017 and just install the newly-released 2019 version. I hope I can figure this "build failing on Visual Studio" situation out soon, because it's getting old really fast.
 
 **Thoughts:** Maybe the best course of action is to just give up on Visual Studio altogether—at least for now—and just use Visual Studio Code.
+
+### Day 5: April 27, 2019
+
+**Today's Progress**: Skipped a day yesterday. It was a very busy day and unfortunately I couldn't find the time to code. Today I went back to the challenge, which made justice to the name. Tried to download both Git and .Net core on a very poor internet connection. After several failed attempts, I gave up on that. Then I decided to setup CI on GitHub by using Travis CI. After a couple of failed attempts, time is up. I will continue tomorrow.
+
+**Thoughts:** Need to put more thought and effort into preparing beforehand, so poor infrastructure or a slightly busier day don't become impediments.
