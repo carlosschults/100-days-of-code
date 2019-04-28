@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-For the first project, I'm going to be working on a small guard-clauses library written with C#. The goal is to reach productivity on dotnet core, as well as learn how to create and publish a Nuget package,
+For the first project, I'm going to be working on a small guard-clauses library written with C#. The goal is to reach productivity on dotnet core, as well as learn how to create and publish a Nuget package.
 
 ### Day 1: April 22, 2019
 
