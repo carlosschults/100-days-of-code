@@ -22,6 +22,6 @@ For the first project, I'm going to be working on a small guard-clauses library 
 
 ### Day 4: April 25, 2019
 
-**Today's Progress**: Technically, it's already the 26th. But since I haven't gone to bed yet, I can still consider it as "today". And, technically as well, I haven't made any real progress today. Still struggling with the build on Visual Studio. I've decided to give up on VS2017 and just install the newly-release 2019 version. I hope I can figure this "build failing on Visual Studio" situation out soon, because it's getting old really fast.
+**Today's Progress**: Technically, it's already the 26th. But since I haven't gone to bed yet, I can still consider it as "today". And, technically as well, I haven't made any real progress today. Still struggling with the build on Visual Studio. I've decided to give up on VS2017 and just install the newly-released 2019 version. I hope I can figure this "build failing on Visual Studio" situation out soon, because it's getting old really fast.
 
 **Thoughts:** Maybe the best course of action is to just give up on Visual Studio altogether—at least for now—and just use Visual Studio Code.
