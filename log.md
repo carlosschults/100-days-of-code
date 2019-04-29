@@ -31,3 +31,9 @@ For the first project, I'm going to be working on a small guard-clauses library 
 **Today's Progress**: Skipped a day yesterday. It was a very busy day and unfortunately I couldn't find the time to code. Today I went back to the challenge, which made justice to the name. Tried to download both Git and .Net core on a very poor internet connection. After several failed attempts, I gave up on that. Then I decided to setup CI on GitHub by using Travis CI. After a couple of failed attempts, time is up. I will continue tomorrow.
 
 **Thoughts:** Need to put more thought and effort into preparing beforehand, so poor infrastructure or a slightly busier day don't become impediments.
+
+### Day 6: April 28, 2019
+
+**Today's Progress**: Finally fixed my Visual Studio problems by installing Visual Studio 2019. Now I can build and test both via command line and via the IDE. Added a new test and wrote the production code to made it pass, commited and pushed to GitHub, so I have something to show for it.
+
+**Thoughts:** TODO: Fix the build on Travis.
