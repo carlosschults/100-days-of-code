@@ -43,3 +43,7 @@ For the first project, I'm going to be working on a small guard-clauses library 
 **Today's Progress**: Made good progress. Wrote some tests and made them pass. Wrote documentation tags for all the public methods. I'd say the first attempt at a public API for the main class is done. Tagged as version "0.1.0".
 
 **Thoughts:** TODO: Still need to fix the build on Travis. Need to research versioning in .Net core. Soon I'll need to add a license, changelog, contributing guidelines and stuff like that.
+
+### Day 8: April 30, 2019
+
+**Today's Progress**: Not a lot of progress. Still struggling with Travis CI. I'm tired after a hard day, so my mind is not as focused as I wish it was.
