@@ -47,3 +47,9 @@ For the first project, I'm going to be working on a small guard-clauses library 
 ### Day 8: April 30, 2019
 
 **Today's Progress**: Not a lot of progress. Still struggling with Travis CI. I'm tired after a hard day, so my mind is not as focused as I wish it was.
+
+### Day 9: May 1, 2019
+
+**Today's Progress**: Today I've decided to take a break from my own project and work on someone else's instead. And that's what I did: I've sent a PR to the [NodaMoney project](https://github.com/remyvd/NodaMoney).
+
+**Thoughts:** Reading (and contributing to) other people's code is always a great way of learning new stuff. Let's try to keep that in mind.
