@@ -53,3 +53,9 @@ For the first project, I'm going to be working on a small guard-clauses library 
 **Today's Progress**: Today I've decided to take a break from my own project and work on someone else's instead. And that's what I did: I've sent a PR to the [NodaMoney project](https://github.com/remyvd/NodaMoney).
 
 **Thoughts:** Reading (and contributing to) other people's code is always a great way of learning new stuff. Let's try to keep that in mind.
+
+### Day 10: May 2, 2019
+
+**Today's Progress**: Still taking a break from my project. While waiting for feedback on my PR sent to NodaMoney yesterday, today I've decided to help on [NodaTime](https://github.com/nodatime/nodatime). Submitted a PR containing some tests that are used to automatically create documentation.
+
+**Thoughts:** Working on other projects is nice, but must remember not to overdo it. Main focus should still finish my own project(s).
