@@ -56,6 +56,6 @@ For the first project, I'm going to be working on a small guard-clauses library 
 
 ### Day 10: May 2, 2019
 
-**Today's Progress**: Still taking a break from my project. While waiting for feedback on my PR sent to NodaMoney yesterday, today I've decided to help on [NodaTime](https://github.com/nodatime/nodatime). Submitted a PR containing some tests that are used to automatically create documentation.
+**Today's Progress**: Still taking a break from my project. While waiting for feedback on my PR sent to NodaMoney yesterday, today I've decided to help on [NodaTime](https://github.com/nodatime/nodatime). Submitted a [PR](https://github.com/nodatime/nodatime/pull/1368) containing some tests that are used to automatically create documentation.
 
 **Thoughts:** Working on other projects is nice, but must remember not to overdo it. Main focus should still finish my own project(s).
