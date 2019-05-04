@@ -59,3 +59,15 @@ For the first project, I'm going to be working on a small guard-clauses library 
 **Today's Progress**: Still taking a break from my project. While waiting for feedback on my PR sent to NodaMoney yesterday, today I've decided to help on [NodaTime](https://github.com/nodatime/nodatime). Submitted a [PR](https://github.com/nodatime/nodatime/pull/1368) containing some tests that are used to automatically create documentation.
 
 **Thoughts:** Working on other projects is nice, but must remember not to overdo it. Main focus should still finish my own project(s).
+
+### Day 11: May 3, 2019
+
+**Yesterday's Progress**: Forgot to log the progress yesterday, so let's do it now. Still contributing to [NodaTime](https://github.com/nodatime/nodatime). Sent [one pull request](https://github.com/nodatime/nodatime/pull/1369) by lunch time, and [another one](https://github.com/nodatime/nodatime/pull/1373) in the evening.
+
+**Thoughts:** Made a silly mistake with the first PR, and sent broken code. Note to self: don't rush. It's not great to waste maintainer's time.
+
+### Day 12: May 4, 2019
+
+**Today's Progress**: Another hour of coding, split up in two periods of 30 min. More PR's ([first](https://github.com/nodatime/nodatime/pull/1375) and [second](https://github.com/nodatime/nodatime/pull/1376)) sent to NodaTime.
+
+**Thoughts:** I really like contributing to Open Source, but tend to do it in bursts of intensity. It'd be nice to find a way of doing it consistently.
