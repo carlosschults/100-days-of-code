@@ -71,3 +71,9 @@ For the first project, I'm going to be working on a small guard-clauses library 
 **Today's Progress**: Another hour of coding, split up in two periods of 30 min. More PR's ([first](https://github.com/nodatime/nodatime/pull/1375) and [second](https://github.com/nodatime/nodatime/pull/1376)) sent to NodaTime.
 
 **Thoughts:** I really like contributing to Open Source, but tend to do it in bursts of intensity. It'd be nice to find a way of doing it consistently.
+
+### Day 13: May 5, 2019
+
+**Today's Progress**: My [latest PR](https://github.com/nodatime/nodatime/pull/1375) to NodaTime required some fixes. So I've spent today's hour of coding implementing them.
+
+**Thoughts:** Gotta go back to working on my library. Probably tomorrow.
