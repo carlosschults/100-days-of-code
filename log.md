@@ -83,3 +83,9 @@ For the first project, I'm going to be working on a small guard-clauses library 
 **Today's Progress**: My previous PR sent to NodaTime is still waiting for review. Today I submitted [another one](https://github.com/nodatime/nodatime/pull/1377).
 
 **Thoughts:** Gotta go back to working on my library. I didn't managed to do it today, because of reasons. I can try again tomorrow, but perhaps it makes sense to continue working on NodaTime and get back to my project on the weekend.
+
+### Day 15: May 7, 2019
+
+**Today's Progress**: Still working on my latest [pull request](https://github.com/nodatime/nodatime/pull/1377) sent to the NodaTime project.
+
+**Thoughts:** As I predicted, I still haven't been able to focus on my own project again. It's probably better to only get back to it on Saturday.
