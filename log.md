@@ -89,3 +89,9 @@ For the first project, I'm going to be working on a small guard-clauses library 
 **Today's Progress**: Still working on my latest [pull request](https://github.com/nodatime/nodatime/pull/1377) sent to the NodaTime project.
 
 **Thoughts:** As I predicted, I still haven't been able to focus on my own project again. It's probably better to only get back to it on Saturday.
+
+### Day 16: May 9, 2019
+
+**Today's Progress**: After skipping a day, I'm back to my own project, at least for a while. But today was not a productive day. Still fighting with Travis CI.
+
+**Thoughts:** Documentation for these kind of tools could be a little more helpful.  
