@@ -95,3 +95,9 @@ For the first project, I'm going to be working on a small guard-clauses library 
 **Today's Progress**: After skipping a day, I'm back to my own project, at least for a while. But today was not a productive day. Still fighting with Travis CI.
 
 **Thoughts:** Documentation for these kind of tools could be a little more helpful.  
+
+### Day 17: May 10, 2019
+
+**Yesterday's Progress**: This is the log for yesterday, May 10. So, I'm happy that after many setbacks, I finally have some progress to show. I've created [a throwaway project](https://github.com/carlosschults/ci-demo) in order to experiment with Travis. And I was able to get it working. Haven't tried to run the tests, but I'll probably do it today.
+
+**Thoughts:** It's better to code as early I can in the day, so I'm not tired. Will try to keep this in mind, even though somedays there's no other timeslot available other than "really late".
