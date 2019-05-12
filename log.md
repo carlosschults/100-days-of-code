@@ -101,3 +101,7 @@ For the first project, I'm going to be working on a small guard-clauses library 
 **Yesterday's Progress**: This is the log for yesterday, May 10. So, I'm happy that after many setbacks, I finally have some progress to show. I've created [a throwaway project](https://github.com/carlosschults/ci-demo) in order to experiment with Travis. And I was able to get it working. Haven't tried to run the tests, but I'll probably do it today.
 
 **Thoughts:** It's better to code as early I can in the day, so I'm not tired. Will try to keep this in mind, even though somedays there's no other timeslot available other than "really late".
+
+### Day 18: May 11, 2019
+
+**Today's Progress**: It's already the 12th, technically, but since I haven't gone to bed yet I can still count as today, according to [the rules.](https://www.100daysofcode.com/faq/). So, progress! I edited the travis configuration for the throwaway project I had created. I successfully set up test running! Now, next step is to apply what I've learned to the main project.
