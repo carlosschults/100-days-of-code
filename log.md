@@ -105,3 +105,9 @@ For the first project, I'm going to be working on a small guard-clauses library 
 ### Day 18: May 11, 2019
 
 **Today's Progress**: It's already the 12th, technically, but since I haven't gone to bed yet I can still count as today, according to [the rules.](https://www.100daysofcode.com/faq/). So, progress! I edited the travis configuration for the throwaway project I had created. I successfully set up test running! Now, next step is to apply what I've learned to the main project.
+
+### Day 19: May 12, 2019
+
+**Yesterday's Progress**: Today is May 13th, so I'm actually logging for yesterday. More progress! I've successfully configured CI for the throwaway project using AppVeyor. Now I think I'm ready to set up CI for the main project.
+
+**Thoughts**: Need a little bit more discipline about logging.
