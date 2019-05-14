@@ -111,3 +111,7 @@ For the first project, I'm going to be working on a small guard-clauses library 
 **Yesterday's Progress**: Today is May 13th, so I'm actually logging for yesterday. More progress! I've successfully configured CI for the throwaway project using AppVeyor. Now I think I'm ready to set up CI for the main project.
 
 **Thoughts**: Need a little bit more discipline about logging.
+
+### Day 20: May 13, 2019
+
+**Today's Progress**: Ok, finally some progress. Today I finally managed to fix the build on Travis CI. Tomorrow I plan to configure CI on AppVeyor and maybe set up code coverage as well.
