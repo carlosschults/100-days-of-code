@@ -115,3 +115,9 @@ For the first project, I'm going to be working on a small guard-clauses library 
 ### Day 20: May 13, 2019
 
 **Today's Progress**: Ok, finally some progress. Today I finally managed to fix the build on Travis CI. Tomorrow I plan to configure CI on AppVeyor and maybe set up code coverage as well.
+
+### Day 21: May 14, 2019
+
+**Today's Progress**: Configured CI on AppVeyor. Now the next step is to set up code coverage.
+
+**Thoughts**: I gotta wrap-up this "setting up CI" thing and get back to writing code ASAP.
