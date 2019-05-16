@@ -121,3 +121,9 @@ For the first project, I'm going to be working on a small guard-clauses library 
 **Today's Progress**: Configured CI on AppVeyor. Now the next step is to set up code coverage.
 
 **Thoughts**: I gotta wrap-up this "setting up CI" thing and get back to writing code ASAP.
+
+### Day 22: May 15, 2019
+
+**Today's Progress**: A little bit of progress today. Finally, I stopped playing with CI and got back to writing actual code. I've implemented a new method in the main class of [the library](https://github.com/carlosschults/nshield), along with unit tests and documentation.
+
+**Thoughts**: Gotta put some effort into not doing the challenge late at night. It's hard to focus when I'm that tired.
