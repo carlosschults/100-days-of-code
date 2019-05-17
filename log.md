@@ -127,3 +127,9 @@ For the first project, I'm going to be working on a small guard-clauses library 
 **Today's Progress**: A little bit of progress today. Finally, I stopped playing with CI and got back to writing actual code. I've implemented a new method in the main class of [the library](https://github.com/carlosschults/nshield), along with unit tests and documentation.
 
 **Thoughts**: Gotta put some effort into not doing the challenge late at night. It's hard to focus when I'm that tired.
+
+### Day 23: May 16, 2019
+
+**Today's Progress**: Implemented a new method for the guard clause [library](https://github.com/carlosschults/nshield). Additionally, I've added a tag to mark the second (minor) version and pushed it to GitHub. Today I learned that GitHub automatically create a new release for your project when you push a tag to it. I was wondering just how to do that.
+
+**Thoughts**: Now I need to focus on getting this thing ready for Nuget.
