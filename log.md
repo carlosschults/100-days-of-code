@@ -133,3 +133,7 @@ For the first project, I'm going to be working on a small guard-clauses library 
 **Today's Progress**: Implemented a new method for the guard clause [library](https://github.com/carlosschults/nshield). Additionally, I've added a tag to mark the second (minor) version and pushed it to GitHub. Today I learned that GitHub automatically creates a new release for your project when you push a tag to it. I was wondering just how to do that.
 
 **Thoughts**: Now I need to focus on getting this thing ready for Nuget.
+
+### Day 24: May 18, 2019
+
+**Today's Progress**: I'm back after missing a day. So, today I didn't really code at all. I only have one commit to show for today, and that's just the creation of a .txt file storing the version number for the library. Spent the remaining of the time research about how to create a nuget package.
