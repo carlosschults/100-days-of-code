@@ -130,6 +130,6 @@ For the first project, I'm going to be working on a small guard-clauses library 
 
 ### Day 23: May 16, 2019
 
-**Today's Progress**: Implemented a new method for the guard clause [library](https://github.com/carlosschults/nshield). Additionally, I've added a tag to mark the second (minor) version and pushed it to GitHub. Today I learned that GitHub automatically create a new release for your project when you push a tag to it. I was wondering just how to do that.
+**Today's Progress**: Implemented a new method for the guard clause [library](https://github.com/carlosschults/nshield). Additionally, I've added a tag to mark the second (minor) version and pushed it to GitHub. Today I learned that GitHub automatically creates a new release for your project when you push a tag to it. I was wondering just how to do that.
 
 **Thoughts**: Now I need to focus on getting this thing ready for Nuget.
