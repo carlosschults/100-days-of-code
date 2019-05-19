@@ -137,3 +137,9 @@ For the first project, I'm going to be working on a small guard-clauses library 
 ### Day 24: May 18, 2019
 
 **Today's Progress**: I'm back after missing a day. So, today I didn't really code at all. I only have one commit to show for today, and that's just the creation of a .txt file storing the version number for the library. Spent the remaining of the time research about how to create a nuget package.
+
+### Day 25: May 19, 2019
+
+**Today's Progress**: Ok, today I've definitely made some progress. I was able to create a nuget package for learning purposes by following the tutorial on Nuget's documentation. Nice! I'm continuing tomorrow.
+
+**Thoughts**: After I'm done creating and publishing the project, I need to look into how to automate the whole publishing process.
