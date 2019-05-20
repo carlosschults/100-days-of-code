@@ -143,3 +143,9 @@ For the first project, I'm going to be working on a small guard-clauses library 
 **Today's Progress**: Ok, today I've definitely made some progress. I was able to create a nuget package for learning purposes by following the tutorial on Nuget's documentation. Nice! I'm continuing tomorrow.
 
 **Thoughts**: After I'm done creating and publishing the project, I need to look into how to automate the whole publishing process.
+
+### Day 26: May 20, 2019
+
+**Today's Progress**: Instead of continuing with the whole nuget thing, I've decided to implement some more methods, alongs with their tests. I'm also performing mutation testing, using [Stryker.NET](https://github.com/stryker-mutator/stryker-net). I've used just a few times but it's already given me some great insights about my tests.
+
+**Thoughts**: TODO - Write documentation for the created methods, fix the tests with surviving mutants and write overloads for the types not covered today.
