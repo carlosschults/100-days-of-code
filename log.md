@@ -155,3 +155,7 @@ For the first project, I'm going to be working on a small guard-clauses library 
 **Today's Progress**: Some more methods, some more tests. I feel the library is getting closer and closer to being ready for version 1.0.
 
 **Thoughts**: Life gets in the way. I've missed another day yesterday, and today I was "forced" to code late at night. I feel tired and it's hard to focus, but it's better than not coding at all.
+
+### Day 28: May 23, 2019
+
+**Today's Progress**: Added XML documentation to the methods that lacked them. Also, fixed some unit tests (and added a couple more) in order to improve my mutation testing results.
